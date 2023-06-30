@@ -1,0 +1,3 @@
+# files that are ignore to be commited in git
+secret.txt
+passwords.txt
