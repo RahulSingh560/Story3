@@ -1,1 +1,1 @@
-This is a first line of First Paragraph of Chapter 1 in Learning Git.
+I have updated this chapter 1 file because for the new version of alien-plot.
